@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../assets/logo-BfNap0Pe.PNG";
+import img from "../assets/logo-BfNap0Pe.png";
 export default function Fotter() {
   return (
     <div className='bg-white mt-40 py-2 '>
