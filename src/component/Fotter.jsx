@@ -13,7 +13,7 @@ export default function Fotter() {
                     <h2 className='text-blue-600 text-2xl font-bold'>Route</h2>
                 </div>
             </div>
-            <p className='opacity-50 text-center'>© 2025 Nagy Osama™. All Rights Reserved.</p>
+            <p className='opacity-50 text-center'>© 2025 AbdelrhmanSabry™. All Rights Reserved.</p>
         </div>
     </div>
   )
