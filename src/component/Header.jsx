@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/logo-BfNap0Pe.PNG";
+import img from "../assets/logo-BfNap0Pe.png";
 import { Link } from "react-router-dom";
 export default function Header() {
   return (
