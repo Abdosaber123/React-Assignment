@@ -1,5 +1,5 @@
 import React from "react";
-import Img2 from "../assets/g046bb1663960946.JPG";
+import Img2 from "../assets/g046bb1663960946.jpg";
 import { Link } from "react-router-dom";
 export default function ReturnDetails({elm}) {
   return (
